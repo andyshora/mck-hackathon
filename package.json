@@ -1,0 +1,24 @@
+{
+  "name": "mckinsey-hackathon-test-app",
+  "version": "1.0.0",
+  "description": "McKinsey Hackathon Test App",
+  "main": "node server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyshora/mck-hackathon.git"
+  },
+  "author": "Andy Shora <andyshora@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyshora/mck-hackathon/issues"
+  },
+  "homepage": "https://github.com/andyshora/mck-hackathon#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.12.0",
+    "stackexchange": "^0.3.0"
+  }
+}
