@@ -1,6 +1,9 @@
 McKinsey Hackathon - Stack Exchange API Node OAuth Demo
 ===
 
+## Get here via a Short URL
+- http://tiny.cc/stackapi will take you to this page!
+
 ## Prerequisites
 - Install node
 - This has been tested on OSX using node v4.2.2
